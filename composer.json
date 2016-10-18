@@ -1,0 +1,14 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Pixel\\": "app/Pixel"
+        }
+    },
+    "require-dev": {
+        "sunra/dbug": "0.2.1"
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "guzzlehttp/guzzle":"6.2.2"
+    }
+}

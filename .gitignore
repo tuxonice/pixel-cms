@@ -2,4 +2,5 @@ composer.phar
 .buildpath
 .settings
 .project
+pixel-cms.geany
 vendor/
